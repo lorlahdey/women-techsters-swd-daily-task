@@ -1,0 +1,18 @@
+.btn {
+  padding: 10px 15px;
+  border-radius: 10px;
+  margin: 10px;
+  outline: none;
+  border: none;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #888;
+}
+.container p {
+  color: #fff;
+}
